@@ -39,14 +39,12 @@ iqvia:
     - allergy_average_forecasted
     - allergy_index_today
     - allergy_index_tomorrow
-    - allergy_index_yesterday
     - asthma_average_forecasted
     - asthma_index_today
     - asthma_index_tomorrow
     - asthma_index_yesterday
     - disease_average_forecasted
     - disease_index_today
-    - disease_index_yesterday
 ```
 
 {% configuration %}
